@@ -19,7 +19,7 @@ A standard-library-only Python implementation of semantic-entropy screening for 
 - Runs locally against OpenAI-compatible endpoints.
 - Includes 45 deterministic self-checks.
 - Treats stability as a screening signal, never as truth.
-- Publishes the preregistration and negative result from an extension that failed its own criterion.
+- Publishes the preregistration and negative result from an extension that failed its own criteria.
 
 That last point matters. I kept the simpler version instead of tuning the experiment until it passed.
 
