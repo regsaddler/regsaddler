@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/evidence-lab-hero.jpg" alt="A chrome mask marked with phi beside a sparse evidence graph" width="100%">
-</p>
-
 # Reg Saddler
 
 **Independent AI safety researcher and systems architect building evidence-gated methods for multi-agent systems.**
@@ -9,6 +5,16 @@
 > I build AI systems that have to show their work before their outputs can authorize action.
 
 My current work asks a practical question: when several AI agents agree, what would justify treating that agreement as evidence rather than repetition? I build small, inspectable tools for provenance, verifier independence, adversarial testing, and fail-closed decisions.
+
+## Start here
+
+- **Record a command:** [receipt-run-lite](https://github.com/regsaddler/receipt-run-lite#quickstart) captures what ran and what it returned.
+- **Explore answer stability:** [semantic-entropy](https://github.com/regsaddler/semantic-entropy#quickstart) includes an offline self-check and a published failed extension.
+- **See the research:** [Difference Theory](https://differencetheory.com) explains the broader direction.
+
+<p align="center">
+  <img src="assets/evidence-lab-hero.jpg" alt="A chrome mask marked with phi beside a sparse evidence graph" width="100%">
+</p>
 
 ## Public work
 
