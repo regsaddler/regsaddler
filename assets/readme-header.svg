@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 344" role="img" aria-labelledby="title desc">
+<title id="title">EVIDENCE BEFORE ACTION.</title>
+<desc id="desc">From observation to a decision worth trusting. Decorative geometric illustration; no measured results are depicted.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b9d3e3" stroke-opacity=".045"/></pattern></defs>
+<rect x="1" y="1" width="1278" height="342" rx="16" fill="#0b141e" stroke="#304252"/>
+<rect x="2" y="2" width="1276" height="340" rx="15" fill="url(#grid)"/>
+<path d="M52 48h30" stroke="#69e7db" stroke-width="3"/>
+<text x="96" y="53" fill="#69e7db" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">INDEPENDENT AI RESEARCH</text>
+<text x="50" y="139" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">EVIDENCE</text>
+<text x="50" y="203" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">BEFORE ACTION.</text>
+<text x="53" y="254" fill="#acbdcd" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" letter-spacing="0">From observation to a decision worth trusting.</text>
+<path d="M53 292h650" stroke="#304252"/>
+<text x="53" y="316" fill="#8196aa" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" letter-spacing="2">SOURCE / METHOD / LIMITS</text>
+<path d="M745 64v217" stroke="#304252"/>
+<path d="M840 110L810 196" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M840 110L951 178" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M840 110L1005 80" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M810 196L885 262" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M810 196L951 178" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M885 262L951 178" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M951 178L1005 80" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M951 178L1080 245" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M1005 80L1160 158" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M1080 245L1160 158" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><path d="M951 178L1160 158" fill="none" stroke="#69e7db" stroke-opacity=".28" stroke-width="2"/><circle cx="840" cy="110" r="5" fill="#69e7db"/><circle cx="810" cy="196" r="5" fill="#69e7db"/><circle cx="885" cy="262" r="5" fill="#69e7db"/><circle cx="951" cy="178" r="5" fill="#69e7db"/><circle cx="1005" cy="80" r="5" fill="#69e7db"/><circle cx="1080" cy="245" r="5" fill="#69e7db"/><circle cx="1160" cy="158" r="5" fill="#69e7db"/><circle cx="951" cy="178" r="26" fill="none" stroke="#69e7db" stroke-opacity=".25"/><circle cx="951" cy="178" r="43" fill="none" stroke="#69e7db" stroke-opacity=".25"/><circle cx="951" cy="178" r="65" fill="none" stroke="#69e7db" stroke-opacity=".25"/><path d="M928 178l15 15 29-33" fill="none" stroke="#69e7db" stroke-opacity=".75" stroke-width="3"/>
+</svg>
