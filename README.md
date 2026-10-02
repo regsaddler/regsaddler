@@ -1,4 +1,10 @@
+<p>
+  <img src="assets/readme-header.svg" alt="EVIDENCE BEFORE ACTION. From observation to a decision worth trusting." width="100%">
+</p>
+
 # Reg Saddler
+
+[Tools](#the-public-toolkit) · [Research](#research-direction) · [Working rule](#working-rule) · [Contact](#contact)
 
 **Independent AI safety researcher and systems architect building evidence-gated methods for multi-agent systems.**
 
@@ -6,17 +12,19 @@
 
 My current work asks a practical question: when several AI agents agree, what would justify treating that agreement as evidence rather than repetition? I build small, inspectable tools for provenance, verifier independence, adversarial testing, and fail-closed decisions.
 
-## Start here
+<a id="start-here"></a>
+
+## Choose a starting point
 
 - **Record a command:** [receipt-run-lite](https://github.com/regsaddler/receipt-run-lite#quickstart) captures what ran and what it returned.
 - **Explore answer stability:** [semantic-entropy](https://github.com/regsaddler/semantic-entropy#quickstart) includes an offline self-check and a published failed extension.
 - **See the research:** [Difference Theory](https://differencetheory.com) explains the broader direction.
 
-<p align="center">
-  <img src="assets/evidence-lab-hero.jpg" alt="A chrome mask marked with phi beside a sparse evidence graph" width="100%">
-</p>
+<a id="public-work"></a>
 
-## Public work
+---
+
+## The public toolkit
 
 ### [semantic-entropy](https://github.com/regsaddler/semantic-entropy)
 
@@ -50,6 +58,8 @@ A small standard-library wrapper that preserves what a local command actually re
   <img src="assets/evidence-gate.svg" alt="Claim to receipt to verifier to action, with failed checks preserved as residue" width="100%">
 </p>
 
+---
+
 ## Working rule
 
 A fluent answer is not a verified answer. A clean test is not scientific validation. A failed experiment is useful when its falsifier, inputs, and limits remain visible.
@@ -65,6 +75,15 @@ My work therefore follows a short loop:
 ## Background
 
 I founded [Difference Theory](https://differencetheory.com) after a career in enterprise systems, networks, security, migrations, and recovery. Earlier public work included digital publishing and information propagation at scale. I was a founding co-host of [*The Drill Down*](https://geeksofdoom.com/2012/09/21/the-drill-down-249-flashback-to-number-one) and returned for its [500th episode](https://geeksofdoom.com/2017/11/10/drill-down-500-ten-years-tech).
+
+<details>
+<summary>Research artwork</summary>
+
+<p align="center">
+  <img src="assets/evidence-lab-hero.jpg" alt="A chrome mask marked with phi beside a sparse evidence graph" width="100%">
+</p>
+
+</details>
 
 ## Contact
 
