@@ -1,6 +1,8 @@
-<p>
-  <img src="assets/readme-header.svg" alt="EVIDENCE BEFORE ACTION. From observation to a decision worth trusting." width="100%">
+<p align="center">
+  <img src="assets/evidence-lab-hero.jpg" alt="Difference Theory logo-inspired artwork: a chrome mask marked with phi beside an evidence graph" width="100%">
 </p>
+
+<h2 align="center">Evidence before action.</h2>
 
 # Reg Saddler
 
@@ -75,15 +77,6 @@ My work therefore follows a short loop:
 ## Background
 
 I founded [Difference Theory](https://differencetheory.com) after a career in enterprise systems, networks, security, migrations, and recovery. Earlier public work included digital publishing and information propagation at scale. I was a founding co-host of [*The Drill Down*](https://geeksofdoom.com/2012/09/21/the-drill-down-249-flashback-to-number-one) and returned for its [500th episode](https://geeksofdoom.com/2017/11/10/drill-down-500-ten-years-tech).
-
-<details>
-<summary>Research artwork</summary>
-
-<p align="center">
-  <img src="assets/evidence-lab-hero.jpg" alt="A chrome mask marked with phi beside a sparse evidence graph" width="100%">
-</p>
-
-</details>
 
 ## Contact
 
